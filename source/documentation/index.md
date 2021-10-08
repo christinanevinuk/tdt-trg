@@ -1,4 +1,7 @@
-# Hello, World!
+---
+id: index
+title: Hello World again
+---
 
 ## Edit Me!
 This is me editing you. testing

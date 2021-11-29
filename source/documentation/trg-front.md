@@ -1,5 +1,5 @@
 # Purpose of the Technical Reference Guide
-The Technical Reference Guide provides information on:
+The Technical Reference Guide provides information on;
 
 - the technical activities needed to build and operate services on the Tax Platform (aka the MDTP)
 - the tools in use within all the DDCs
